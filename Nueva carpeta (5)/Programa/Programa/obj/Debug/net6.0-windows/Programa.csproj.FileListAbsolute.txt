@@ -1,0 +1,68 @@
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.AssemblyReference.cache
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.Form1.resources
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.GenerateResource.cache
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.AssemblyInfoInputs.cache
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.AssemblyInfo.cs
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Programa.exe
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Programa.deps.json
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Programa.runtimeconfig.json
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Programa.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Programa.pdb
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.CopyComplete
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\refint\Programa.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.pdb
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.genruntimeconfig.cache
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\ref\Programa.dll
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.Inicio.resources
+C:\Users\luise\Desktop\Programas C#\Programa\Programa\obj\Debug\net6.0-windows\Programa.Properties.Resources.resources
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Programa.exe
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Programa.deps.json
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Programa.runtimeconfig.json
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Programa.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Programa.pdb
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.AssemblyReference.cache
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.Form1.resources
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.Inicio.resources
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.Properties.Resources.resources
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.GenerateResource.cache
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.AssemblyInfoInputs.cache
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.AssemblyInfo.cs
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.CoreCompileInputs.cache
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.csproj.CopyComplete
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\refint\Programa.dll
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.pdb
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\Programa.genruntimeconfig.cache
+C:\Users\TomasLaurela\Desktop\Nueva carpeta (5)\Programa\Programa\obj\Debug\net6.0-windows\ref\Programa.dll

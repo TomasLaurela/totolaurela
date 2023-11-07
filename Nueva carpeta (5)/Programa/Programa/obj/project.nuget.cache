@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAvGpJL0SfqsvBrXh4HI9f2VrzBqciX5IYMT4BVumae9EF41VTuVIzUIt7uK3Rfv7ss0p0RC0js/6sDwj4b4gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TomasLaurela\\Desktop\\Nueva carpeta (5)\\Programa\\Programa\\Programa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\TomasLaurela\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
